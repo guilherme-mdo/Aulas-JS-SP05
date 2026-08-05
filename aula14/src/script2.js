@@ -83,3 +83,5 @@ console.log(Moto.portas);
 delete Moto.portas;
 
 console.log(Moto);
+
+
